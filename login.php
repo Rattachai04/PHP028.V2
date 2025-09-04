@@ -41,7 +41,7 @@
 
     <style>
         body {
-            background: linear-gradient(135deg, #0a2a66, #1e3f91);
+            background: linear-gradient(135deg, #51e2ffff, #a831f3ff);
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
         .login-card {
@@ -57,11 +57,11 @@
             text-align: center;
             margin-bottom: 25px;
             font-weight: 700;
-            color: #0a2a66;
+            color: #059f71ff;
         }
         .form-label {
             font-weight: 500;
-            color: #333333;
+            color: #060606ff;
         }
         .form-control {
             border-radius: 10px;
@@ -70,7 +70,7 @@
         .btn-primary {
             width: 100%;
             border-radius: 10px;
-            background-color: #1e3f91;
+            background-color: #1e8d91ff;
             border: none;
             font-weight: 600;
             padding: 10px;
